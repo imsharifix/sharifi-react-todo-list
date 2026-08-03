@@ -34,6 +34,7 @@ Users can easily manage their tasks and track completed activities through a sim
 ## 🖥️ Preview
 
 <img width="1920" height="887" alt="todoProject" src="https://github.com/user-attachments/assets/395ba226-dabc-4731-8750-1df2645add4e" />
+<img width="1910" height="987" alt="screencapture-localhost-5173-2026-08-02-14_13_11" src="https://github.com/user-attachments/assets/c9b18ac4-bf12-46d3-9642-c97ccf4eb976" />
 
 
 
